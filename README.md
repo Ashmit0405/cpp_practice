@@ -1,2 +1,2 @@
 # cpp_practice
-These are some programs for c++ practice
+Some programs for cpp practice for syntax and basic understanding of the language
