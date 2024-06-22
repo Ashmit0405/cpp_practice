@@ -1,0 +1,9 @@
+.vscode/
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore executable files for various platforms
+*.exe
+*.out
+*.app
